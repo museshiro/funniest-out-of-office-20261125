@@ -9,7 +9,7 @@ characters or fewer — entered in [The Funniest Out-of-Office](https://make.fun
 
 The line:
 
-> I'm out until Monday. My inbox will be read in the order it was ignored.
+> Out until Monday. If it's urgent, I'll be back before your panic has time to become a calendar invite.
 
 `main.ts` writes the line to `entry.txt` (and to `/output/entry.txt` when
 that directory exists). Run it with `node main.ts`.
